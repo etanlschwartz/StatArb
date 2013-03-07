@@ -311,7 +311,7 @@ pNl <- function( triggers, periods, periodNum, initialPortValue, numOfStandardDe
   return(portfolio)
 }
 
-
+#hello
 
 # number of trades (open and close is 1)
 # Performance, portfolio
